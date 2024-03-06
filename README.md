@@ -2,7 +2,7 @@
 
 # How to run
 - Install all packages ``pip install -r requirements.txt``
-- perform migration ``python manage.py makemigrations`` and ``python manage.py migrate``
+- perform migration ``python manage.py migrate`` and ``python manage.py makemigrations``
 - Run the project ``python manage.py runserver``
 
 
